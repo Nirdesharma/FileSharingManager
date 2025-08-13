@@ -1,1 +1,1 @@
-"# FileSharingManager" 
+File Sharing Manager is a Spring Boot and MySQL web app that uses Thymeleaf for its user interface. Users can upload, share, download, and delete files. It secures logins with OAuth2 via Google or GitHub. The app automatically deletes uploads after 24 hours to ensure privacy. It has a clean, responsive interface and offers efficient file management.
